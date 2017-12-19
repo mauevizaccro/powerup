@@ -1,20 +1,19 @@
 {
-  "name": "Testeeeeee",
-  "details":"Power-Up Projetos Neoassist",
+  "name": "A Teste Neo",
+  "details":"A Power-Up to demonstrate all of the things you can do with Power-Ups!",
   "icon": {
     "url": "http://projetos.neoassist.com/css/img/logopowerup.png"
   },
-  "author": "Maue",
+  "author": "Trello, Inc.",
   "capabilities": [
     "callback",
-    "card-buttons"
+    "card-buttons",
+    "card-detail-badges",
+    "show-settings"
   ],
   "connectors": {
     "iframe": {
       "url": "./index.html"
     }
   }
-} 
-
-
-
+}

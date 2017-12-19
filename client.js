@@ -2,6 +2,7 @@
 
 var Promise = TrelloPowerUp.Promise;
 
+
 TrelloPowerUp.initialize({
   'card-buttons': function(t, options){
     return [{
