@@ -10,7 +10,10 @@
   ],
   "connectors": {
     "iframe": {
-      "url": "./index.html?&output=embed"
+      "url": "./index.html"
     }
   }
 } 
+
+
+
