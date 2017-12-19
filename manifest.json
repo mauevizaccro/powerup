@@ -6,6 +6,7 @@
   },
   "author": "Maue",
   "capabilities": [
+    "callback",
     "card-buttons"
   ],
   "connectors": {
