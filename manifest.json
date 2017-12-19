@@ -1,6 +1,6 @@
 {
   "name": "Testeeeeee",
-  "details":"A power up dos teste asdas",
+  "details":"Power-Up Projetos Neoassist",
   "icon": {
     "url": "http://projetos.neoassist.com/css/img/logopowerup.png"
   },
@@ -10,7 +10,7 @@
   ],
   "connectors": {
     "iframe": {
-      "url": "./index.html"
+      "url": "./index.html?&output=embed"
     }
   }
 } 
